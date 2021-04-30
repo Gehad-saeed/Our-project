@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "segoe ui light";
+}
+
+
+/* Home section */
+
+.header {
+    background-image: url(../Image/shutterstock_277750193.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+    width: 100%;
+    height: 630px;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    overflow: hidden;
+}
+
+.logo {
+    height: 50px;
+    float: left;
+    padding: 10px;
+    padding-top: 0px;
+}
+
+.logo img {
+    height: 100%;
+    margin: auto;
+}
+
+.list {
+    width: 80%;
+    float: right;
+    font-size: 18px;
+}
+
+.list ul {
+    padding-left: 0;
+    overflow: hidden;
+}
+
+.list li {
+    float: right;
+    padding: 10px;
+    list-style: none;
+    padding-top: 20px;
+}
+
+.home {
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.home img {
+    width: 400px;
+    height: 220px;
+}
+
+.home p {
+    font-size: 230%;
+    font-family: 'Dancing Script', cursive;
+}
+
+.home .btns {
+    padding-top: 30px;
+}
+
+.home .btns button {
+    padding: 15px 28px;
+    border: none;
+}
+
+.home .btns .learn_more {
+    background-color: #c1ab84;
+}
+
+.home .btns .book_visit {
+    background-color: white;
+}

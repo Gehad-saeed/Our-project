@@ -103,3 +103,35 @@ body {
 .discover .chef img {
     width: 100%;
 }
+
+
+
+/*Meals Section*/
+.meals{
+    width:100%;
+    height:50%;
+    padding:40px 30px ;
+    overflow: hidden;
+}
+.meals .meal{
+    width:24%;
+    height: 100%;
+    text-align: center;
+    float:left ;
+}
+.meals .meal img{
+    border-radius:50% ;
+}
+.border{
+    width:25%;
+    height:2px ;
+    background-color:#ccc;
+    margin: auto;
+}
+.meals .meal h2{
+    padding: 10px 0px;
+}
+.meals .meal p{
+    padding: 10px 0px;
+    color: #868686;
+}

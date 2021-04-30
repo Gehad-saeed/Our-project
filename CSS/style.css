@@ -103,6 +103,33 @@ body {
 .discover .chef img {
     width: 100%;
 }
+.footer
+{
+    background-color: #868686;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+.img
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    display: flex;
+}
+.i img
+{
+    width: 100%;
+}
+.rights
+{
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
 
 
 

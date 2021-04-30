@@ -87,3 +87,19 @@ body {
 .home .btns .book_visit {
     background-color: white;
 }
+
+
+/* Discover section */
+
+.discover {
+    overflow: hidden;
+}
+
+.discover .chef {
+    width: 40%;
+    float: left;
+}
+
+.discover .chef img {
+    width: 100%;
+}

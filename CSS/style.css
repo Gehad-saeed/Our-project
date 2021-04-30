@@ -164,6 +164,36 @@ span {
     font-size: 28px;
 }
 
+.Team {
+    padding: 30px;
+    overflow: hidden;
+    height: auto;
+    ;
+}
+
+.Team .chef {
+    width: 40%;
+    float: left;
+}
+
+.Team .chef-caption {
+    width: 60%;
+    float: left;
+    text-align: center;
+    margin-top: 300px;
+}
+
+.Team .chef img {
+    width: 100%;
+}
+
+span {
+    color: brown;
+    font-weight: 400;
+    font-family: 'Dancing Script', cursive;
+    font-size: 28px;
+}
+
 .Team .chef-caption p {
     color: #868686;
     padding: 40px;
@@ -219,7 +249,7 @@ span {
 }
 
 
-/* footer */
+/* footer section */
 
 .footer {
     background-color: #868686;

@@ -213,7 +213,7 @@ span {
 
 /*out-door */
 .out-door{
-    background-image:url(bgs.jpg);
+    background-image:url(../Image/bgs.jpg);
     background-size: cover;
     background-attachment: fixed;
     height: 350px;

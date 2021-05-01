@@ -211,6 +211,14 @@ span {
 
 /*End of Team section design */
 
+/*out-door */
+.out-door{
+    background-image:url(bgs.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 350px;
+
+}
 
 /*Meals Section*/
 
